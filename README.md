@@ -5,7 +5,7 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 * [Introduction](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Library & Framework](#setup)
+* [Library or Framework](#library)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
