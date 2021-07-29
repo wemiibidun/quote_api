@@ -4,7 +4,7 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 ## Table of contents
 * [Introduction](#introduction)
 * [Screenshot](#screenshot)
-* [Technologies](#technologies)
+* [Technology](#technology)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
