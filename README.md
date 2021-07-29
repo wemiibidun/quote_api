@@ -35,4 +35,4 @@ Project is: _Complete_
 This project is part of Codecademy Full-Stack Engineer career path.
 
 ## Contact
-Created by [@wemiibidun](https://twitter.com/wemiibidun/) - feel free to contact me!
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
