@@ -14,7 +14,7 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 This is a project from codeacademy which is a part of the Full-Stack Engineer career path course. The aim of this project is to build on the knowledge of Node JS, Express and APIs
 
 ## Screenshots
-![Sample image](public/quote_api)
+![Sample image](https://github.com/wemiibidun/quote_api/blob/main/public/quote_api.png)
 
 ## Technology
 * Javascript
