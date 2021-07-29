@@ -2,46 +2,40 @@
 This is a web API, built with Express and Node.js, that stores quotes about computers, coding and technology.
 
 ## Table of contents
-* [General info](#general-info)
+* [Introduction](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Library/Framework](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This is a project from codeacademy which is a part of the Full-Stack Engineer career path course. The aim of this project is to build on the knowledge of Node JS, Express and APIs
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/quote_api.png)
 
-## Technologies
-* Tech 1 - version 1.0
+## Technology
+* Javascript
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## Library & Framework
+* Node JS
+* Express
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+The GUI of this project allows users to:
+* Generate a random quote
+* Search for quotes by author
+* Add a new quote
+* View all the quotes
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _Complete_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+This project is part of Codecademy Full-Stack Engineer career path.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@wemiibidun](https://twitter.com/wemiibidun/) - feel free to contact me!
