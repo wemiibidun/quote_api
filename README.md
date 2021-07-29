@@ -4,7 +4,7 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 ## Table of contents
 * [Introduction](#introduction)
 * [Screenshot](#screenshot)
-* [Technology](#technology)
+* [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -16,7 +16,7 @@ This is a project from codeacademy which is a part of the Full-Stack Engineer ca
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/quote_api/blob/main/public/quote_api.png)
 
-## Technology, Library and Framework
+## Technologies (Language, Library and Framework)
 * Javascript
 * Node JS
 * Express
