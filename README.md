@@ -5,7 +5,6 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 * [Introduction](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Library/Framework](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -15,11 +14,10 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 This is a project from codeacademy which is a part of the Full-Stack Engineer career path course. The aim of this project is to build on the knowledge of Node JS, Express and APIs
 
 ## Screenshots
-![Example screenshot](./img/quote_api.png)
+![Sample image](public/quote_api)
 
 ## Technology
 * Javascript
-
 ## Library & Framework
 * Node JS
 * Express
