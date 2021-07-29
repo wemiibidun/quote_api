@@ -2,23 +2,22 @@
 This is a web API, built with Express and Node.js, that stores quotes about computers, coding and technology.
 
 ## Table of contents
-* [Introduction](#general-info)
-* [Screenshots](#screenshots)
+* [Introduction](#introduction)
+* [Screenshot](#screenshot)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## Introduction
 This is a project from codeacademy which is a part of the Full-Stack Engineer career path course. The aim of this project is to build on the knowledge of Node JS, Express and APIs
 
-## Screenshots
+## Screenshot
 ![Sample image](https://github.com/wemiibidun/quote_api/blob/main/public/quote_api.png)
 
-## Technology
+## Technology, Library and Framework
 * Javascript
-## Library & Framework
 * Node JS
 * Express
 
