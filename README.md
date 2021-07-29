@@ -1,5 +1,5 @@
-# quote_api
-> Here goes your awesome project description!
+# Quote Generator
+> This is a web API, built with Express and Node.js, that stores quotes about computers, coding and technology.
 
 ## Table of contents
 * [General info](#general-info)
