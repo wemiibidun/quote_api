@@ -1,3 +1,6 @@
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/quote_api)
+![GitLab Code Status](https://img.shields.io/website-up-down-green-red/http/personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app)
+
 # Quote Generator
 This is a web API, built with Express and Node.js, that stores quotes about computers, coding and technology.
 
