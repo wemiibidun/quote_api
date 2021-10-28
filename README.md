@@ -1,4 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/quote_api)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/quote_api)
 
 
 # Quote Generator
