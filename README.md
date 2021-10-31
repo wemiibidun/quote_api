@@ -10,6 +10,7 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
+* [Link to Published Project](#link-to-published-app)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -31,6 +32,9 @@ The GUI of this project allows users to:
 * Search for quotes by author
 * Add a new quote
 * View all the quotes
+
+## Link to Published Project
+[Quote Api](https://well-management-system.herokuapp.com/)
 
 ## Status
 Project is: _Complete_
