@@ -10,7 +10,7 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
-* [Link to Published Project](#link-to-published-app)
+* [Link to Published Project](#link-to-published-project)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
