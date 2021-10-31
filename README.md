@@ -34,7 +34,7 @@ The GUI of this project allows users to:
 * View all the quotes
 
 ## Link to Published Project
-[Quote Api](https://well-management-system.herokuapp.com/)
+[Quote Api](https://quote-api-deployment.herokuapp.com/)
 
 ## Status
 Project is: _Complete_
