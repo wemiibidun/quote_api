@@ -3,7 +3,7 @@
 
 
 # Quote Generator
-This is a web API, built with Express and Node.js, that stores quotes about computers, coding and technology.
+This web API, built with Express and Node.js, stores quotes about computers, coding, and technology.
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -16,12 +16,12 @@ This is a web API, built with Express and Node.js, that stores quotes about comp
 * [Contact](#contact)
 
 ## Introduction
-This is a project from codeacademy which is a part of the Full-Stack Engineer career path course. The aim of this project is to build on the knowledge of Node JS, Express and APIs
+This is a project from Codecademy, part of the Full-Stack Engineer career path course. This project aims to build on the knowledge of Node JS, Express, and APIs
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/quote_api/blob/main/public/quote_api.png)
 
-## Technologies (Language, Library and Framework)
+## Technologies (Language, Library, and Framework)
 * Javascript
 * Node JS
 * Express
@@ -34,13 +34,13 @@ The GUI of this project allows users to:
 * View all the quotes
 
 ## Link to Published Project
-[Quote Api](https://quote-api-deployment.herokuapp.com/)
+[Quote Api](https://quote-api-j4db.onrender.com/)
 
 ## Status
 Project is: _Complete_
 
 ## Inspiration
-This project is part of Codecademy Full-Stack Engineer career path.
+This project is part of the Codecademy Full-Stack Engineer career path.
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
