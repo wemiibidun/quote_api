@@ -34,7 +34,7 @@ The GUI of this project allows users to:
 * View all the quotes
 
 ## Link to Published Project
-[Quote Api](https://quote-api-j4db.onrender.com/)
+[Quote Api](https://quoteapi-production-c822.up.railway.app/)
 
 ## Status
 Project is: _Complete_
